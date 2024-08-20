@@ -3,7 +3,7 @@
 This project is a Python-based cryptocurrency trading bot designed for mean reversion strategies. The bot trades on a futures demo Kraken exchange using multiple trading pairs. It continuously monitors the market and executes trades based on a predefined mean reversion strategy.
 
 ### Features
-- Mean Reversion Strategy: The bot implements a mean reversion strategy, aiming to buy low and sell high based on market conditions.
+- Mean Reversion Strategy: The bot implements a mean reversion strategy, which is based on the principle that prices will tend to revert to their historical mean over time. The bot identifies when an asset is overbought or oversold to execute buy/sell orders.
 - WebSocket API: Utilizes Kraken's WebSocket API for real-time market data and order execution.
 - Multiple Trading Pairs: Supports trading across multiple cryptocurrency pairs.
 - Configurable: Allows customization of trading parameters, strategy, and supported pairs.
