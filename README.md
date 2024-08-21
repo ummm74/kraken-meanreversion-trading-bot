@@ -59,7 +59,7 @@ Open websocket_api_kraken.py go to the method def subscribe_to_ticker(self) and 
 2. Run the bot
 Start bot with this command
 ```ruby
-python krkn_main.py
+python krakn_main.py
 ```
 3. Monitoring
 The bot will output logs detailing its trading decisions and market analysis. You can stop the bot at any time by stopping the script.
