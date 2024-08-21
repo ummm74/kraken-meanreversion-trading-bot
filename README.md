@@ -14,7 +14,7 @@ This project is a Python-based cryptocurrency trading bot designed for mean reve
 ├── Mean_Strategy.py            # Python script containing the mean reversion strategy
 ├── README.md                   # Project documentation
 ├── authkeys.env                # Environment file storing Kraken API keys
-├── krkn_main.ipynb             # Jupyter Notebook for running the main bot and testing
+├── krakn_main.ipynb             # Jupyter Notebook for running the main bot and testing
 ├── websocket_api_kraken.py     # Python script handling WebSocket API integration with Kraken
 ```
 
